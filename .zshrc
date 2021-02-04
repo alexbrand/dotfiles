@@ -104,3 +104,7 @@ alias vim=nvim
 alias k=kubectl
 
 export CDPATH=".:/Users/alexbrand/go/src/github.com/"
+source "/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.zsh.inc"
+source "/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc"
+
+alias watch="watch "
